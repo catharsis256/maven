@@ -2,6 +2,8 @@ package ru.pflb.dev.inagumanov;
 
 import java.util.Scanner;
 
+import org.apache.commons.lang3.StringUtils;
+
 /**
  * Hello world!
  *
@@ -32,7 +34,6 @@ public class App
     }
 
 	private static boolean isNumeric(String nextLine) {
-		
-		return false;
+		return StringUtils.isNumeric(nextLine);
 	}
 }
