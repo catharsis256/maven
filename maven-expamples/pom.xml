@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd ">
+	<modelVersion>4.0.0</modelVersion>
+	
+	<artifactId>maven-examples</artifactId>
+	<groupId>ru.catharsis256.maven</groupId>
+	<version>1.0.0</version>
+	
+	<name>Examples of Maven Classes</name>
+	<description>Some exmaples about maven course</description>
+	
+	<developers>
+		<developer>
+			<name>Igor Nagumanov</name>
+			<email>i.nagumanov@pflb.ru</email>
+			<organization>Performance Lab</organization>
+		</developer>
+	</developers>
+	
+	<licenses>
+		<license>
+			<name>Apache License 2.0</name>
+			<comments>We are pretty good to any use</comments>
+		</license>
+	</licenses>
+	
+	<organization>
+		<name>Performance Lab</name>
+		<url>http://www.performance-lab.ru</url>
+	</organization>
+</project>
